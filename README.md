@@ -9,4 +9,4 @@ This is 2nd Year CS undergrad at Indian Institute of Information Technology Vado
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nlok5923&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nlok5923&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nlok5923&&hide=CSS&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
