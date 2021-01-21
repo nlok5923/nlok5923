@@ -1,7 +1,7 @@
 This is 2nd Year CS undergrad at Indian Institute of Information Technology Vadodara. 
 
-- 🔭 I’m currently working on **Emberjs** 
-- 🌱 I’m currently learning **Audio processing with DL**
+- 🔭 I’m currently working on **nothing** 
+- 🌱 I’m currently learning **nothing**
 - 👯 I’m looking to collaborate on **Cross platform projects**
 - 🤔 I’m looking for help with understanding some open source project code base(kuch samajh nahi aaraha). 
 - :star2: **Cosmos = :blue_heart:**
