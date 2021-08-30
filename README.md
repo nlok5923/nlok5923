@@ -5,6 +5,7 @@ This is 3nd Year CS undergrad at Indian Institute of Information Technology Vado
 - 👯 I’m looking to collaborate on **Unique projects**
 - 🤔 I’m looking for help with understanding **DSA**. 
 - :star2: **Cosmos = :blue_heart:**
+- Fun fact: I consider buying clothes as world most shitted job
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nlok5923&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
