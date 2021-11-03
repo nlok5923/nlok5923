@@ -6,8 +6,6 @@ This is 3nd Year CS undergrad at Indian Institute of Information Technology Vado
 - 🤔 I’m looking for help with understanding **DSA**. 
 - 👨‍💻 Take a look at my profile [here](https://nitanshu-portfolio.netlify.app/)
 - :star2: **Cosmos = :blue_heart:**
-- Fun fact: I consider buying clothes as world most shittest job.
-
 
 <h3 align="left">Meet my friends: </h3>
 <p align="center">
