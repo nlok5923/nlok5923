@@ -26,9 +26,21 @@ This is 3nd Year CS undergrad at Indian Institute of Information Technology Vado
 <!-- <img src="https://tenor.com/view/programmer-gif-19019116" />  -->
 <!--   <div class="tenor-gif-embed" data-postid="19019116" data-share-method="host" data-aspect-ratio="1.59204" data-width="100%"><a href="https://tenor.com/view/programmer-gif-19019116">Programmer GIF</a>from <a href="https://tenor.com/search/programmer-gifs">Programmer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script> -->
 </p>
+<h3>Stats:</h3>
+<p align="center">
+  
+<!-- Github Stats + Top Langs -->
+  
+<!--   <img height="180em" width="456em" src="https://github-readme-stats.vercel.app/api?username=AshishSingh2001&show_icons=true&hide_border=true"/>
+  <img height="180em" width="331em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishSingh2001&layout=compact&langs_count=8"/> -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nlok5923&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nlok5923&&hide=CSS&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- Github Stats + Streaks -->
+  <img src = "https://activity-graph.herokuapp.com/graph?username=nlok5923&theme=react-dark&hide_border=true&area=true" width = 800>
+  <img src = "https://github-readme-stats.vercel.app/api?username=nlok5923&show_icons=true&theme=dark&hide_border=true" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=nlok5923&theme=dark&hide_border=true" width = 400>
+  
+</p>
+<p align="center">
+  
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=nlok5923.nlok5923)
+</p>
