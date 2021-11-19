@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="programmer.gif" width="100%" />
+</p>
 This is 3nd Year CS undergrad at Indian Institute of Information Technology Vadodara. 
 
 - 🔭 I’m currently working on **Blockchain** 
