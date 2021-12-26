@@ -47,3 +47,6 @@ This is 3rd Year CS undergrad at Indian Institute of Information Technology Vado
   
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=nlok5923.nlok5923)
 </p>
+<p> align = "left">
+I have also work with him, Really he is hard-working and passionated about Blockchain hope you(Nitanshu)dont mind this change and will commit it
+</p>
