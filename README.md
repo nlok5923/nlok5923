@@ -3,7 +3,7 @@
 </p>
 This is 3rd Year CS undergrad at Indian Institute of Information Technology Vadodara. 
 
-- 🔭 I’m currently working on **Blockchain** 
+- 🔭 I’m currently working on **~Blockchain~** 
 - 🌱 I’m currently building stuff using **Solidity + MERN**
 - 👯 I’m looking to collaborate on project motived with **Unique ideas**
 - 🤔 I’m looking for help with understanding **DSA**. 
