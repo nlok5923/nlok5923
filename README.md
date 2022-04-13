@@ -37,10 +37,6 @@ This is 3rd Year CS undergrad at Indian Institute of Information Technology Vado
 <!--   <img height="180em" width="456em" src="https://github-readme-stats.vercel.app/api?username=AshishSingh2001&show_icons=true&hide_border=true"/>
   <img height="180em" width="331em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishSingh2001&layout=compact&langs_count=8"/> -->
 
-<!-- Github Stats + Streaks -->
-  <img src = "https://activity-graph.herokuapp.com/graph?username=nlok5923&theme=react-dark&hide_border=true&area=true" width = 800>
-  <img src = "https://github-readme-stats.vercel.app/api?username=nlok5923&show_icons=true&theme=dark&hide_border=true" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=nlok5923&theme=dark&hide_border=true" width = 400>
   
 </p>
 <p align="center">
