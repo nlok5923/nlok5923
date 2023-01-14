@@ -1,7 +1,7 @@
 <p align="center">
   <img src="programmer.gif" width="100%" />
 </p>
-This is 3rd Year CS undergrad at Indian Institute of Information Technology Vadodara. 
+This is 4rd Year CS undergrad at Indian Institute of Information Technology Vadodara. 
 
 - 🔭 I’m currently working on **Blockchain** 
 - 🌱 I’m currently building stuff using **Solidity + MERN**
