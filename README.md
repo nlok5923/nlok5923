@@ -10,6 +10,8 @@ As you can see above i am still working on improving gh profile a bit!
 
 If you wanna chat on something don't hesistate to dm at my tg handle [here](https://t.me/creator5923)
 
+PS: this profile is a quite outdated in terms of info it shows !! 
+
 Bye 👋
   
 <!-- Github Stats + Top Langs -->
